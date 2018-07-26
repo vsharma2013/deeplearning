@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16658f64-e096-4247-bdde-88e5f8d7b597" name="Default" comment="" />
+    <list default="true" id="16658f64-e096-4247-bdde-88e5f8d7b597" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/testCases.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/testCases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,81 +16,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tf.py">
+      <file leaf-file-name="w2_tf_dnn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week4/w2_tf_dnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="123">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="w1_tf_basic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week4/w1_tf_basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#248#645#0" />
+                <element signature="e#678#889#0" />
+                <element signature="e#905#1541#0" />
+                <element signature="e#1558#2427#0" />
+                <element signature="e#2508#3239#0" />
+                <element signature="e#3275#4478#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="w3_dnn_step_by_step.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/w3_dnn_step_by_step.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="352" column="23" lean-forward="true" selection-start-line="352" selection-start-column="23" selection-end-line="352" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#474#1119#0" />
+                <element signature="e#1154#1796#0" />
+                <element signature="e#1859#2839#0" />
+                <element signature="e#3986#4711#0" />
+                <element signature="e#4749#5541#0" />
+                <element signature="e#5603#6804#0" />
+                <element signature="e#6848#8950#0" />
+                <element signature="e#9014#9887#0" />
+                <element signature="e#10009#12112#0" />
+                <element signature="e#12146#12643#0" />
+                <element signature="e#13107#13965#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/__init__.py">
+        <entry file="file://$PROJECT_DIR$/week4/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w1_lr_basics.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/w1_lr_basics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w2_plannar_cclassification.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
-              <folding>
-                <element signature="e#26#44#0" expanded="true" />
-                <element signature="e#285#845#0" />
-                <element signature="e#1163#1557#0" />
-                <element signature="e#1608#2299#0" />
-                <element signature="e#2366#3071#0" />
-                <element signature="e#3063#3680#0" />
-                <element signature="e#3777#4742#0" />
-                <element signature="e#4810#5620#0" />
-                <element signature="e#5659#6669#0" />
-                <element signature="e#6777#7351#0" />
-                <element signature="e#7297#7927#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="planar_utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/planar_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testCases.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/testCases.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -95,6 +86,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -102,7 +94,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>seed</find>
+      <find>###</find>
     </findStrings>
+    <replaceStrings>
+      <replace># ##</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,12 +110,23 @@
         <option value="$PROJECT_DIR$/week1/t2_cnn_numpy.py" />
         <option value="$PROJECT_DIR$/week1/__init__.py" />
         <option value="$PROJECT_DIR$/week1/t1_cnn_bacis.py" />
-        <option value="$PROJECT_DIR$/tf.py" />
         <option value="$PROJECT_DIR$/week2/w1_lr_basics.py" />
         <option value="$PROJECT_DIR$/week2/__init__.py" />
         <option value="$PROJECT_DIR$/week2/planar_utils.py" />
-        <option value="$PROJECT_DIR$/week2/testCases.py" />
         <option value="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" />
+        <option value="$PROJECT_DIR$/week2/dnn_utils_v2.py" />
+        <option value="$PROJECT_DIR$/week2/testCases.py" />
+        <option value="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" />
+        <option value="$PROJECT_DIR$/week2/topo.py" />
+        <option value="$PROJECT_DIR$/week3/w1_initialization.ipynb" />
+        <option value="$PROJECT_DIR$/week3/init_utils.py" />
+        <option value="$PROJECT_DIR$/week3/testCases.py" />
+        <option value="$PROJECT_DIR$/week3/reg_utils.py" />
+        <option value="$PROJECT_DIR$/tf.py" />
+        <option value="$PROJECT_DIR$/week4/tf_utils.py" />
+        <option value="$PROJECT_DIR$/week4/w1_tf_basic.py" />
+        <option value="$PROJECT_DIR$/week4/__init__.py" />
+        <option value="$PROJECT_DIR$/week4/w2_tf_dnn.py" />
       </list>
     </option>
   </component>
@@ -125,6 +135,9 @@
     <option name="y" value="52" />
     <option name="width" value="1400" />
     <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -141,12 +154,12 @@
             <path>
               <item name="deeplearning_ai" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning_ai" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning_ai" type="b2602c69:ProjectViewProjectNode" />
@@ -166,6 +179,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.w2_plannar_cclassification">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.w2_tf_dnn">
+    <configuration name="reg_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,17 +207,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/reg_utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="t1_cnn_bacis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="topo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,29 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/t1_cnn_bacis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="tf" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning_ai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/topo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +253,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="w2_plannar_cclassification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="w2_tf_dnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning_ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/w2_tf_dnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="w3_dnn_step_by_step" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,26 +283,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.tf" />
-      <item itemvalue="Python.t1_cnn_bacis" />
       <item itemvalue="Python.w1_lr_basics" />
-      <item itemvalue="Python.w2_plannar_cclassification" />
+      <item itemvalue="Python.w3_dnn_step_by_step" />
+      <item itemvalue="Python.topo" />
+      <item itemvalue="Python.reg_utils" />
+      <item itemvalue="Python.w2_tf_dnn" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.w2_plannar_cclassification" />
+        <item itemvalue="Python.w2_tf_dnn" />
+        <item itemvalue="Python.reg_utils" />
+        <item itemvalue="Python.topo" />
+        <item itemvalue="Python.w3_dnn_step_by_step" />
         <item itemvalue="Python.w1_lr_basics" />
-        <item itemvalue="Python.t1_cnn_bacis" />
-        <item itemvalue="Python.tf" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -307,13 +326,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28502417" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.285576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990338" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39883834" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,8 +364,18 @@
           <line>234</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2/w3_dnn_step_by_step.py</url>
+          <line>354</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -364,13 +393,44 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week2/w1_lr_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="60" lean-forward="true" selection-start-line="118" selection-start-column="60" selection-end-line="118" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/planar_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -378,9 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,19 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#26#44#0" expanded="true" />
-            <element signature="e#285#845#0" />
-            <element signature="e#1163#1557#0" />
-            <element signature="e#1608#2299#0" />
-            <element signature="e#2366#3071#0" />
-            <element signature="e#3063#3680#0" />
-            <element signature="e#3777#4742#0" />
-            <element signature="e#4810#5620#0" />
-            <element signature="e#5659#6669#0" />
-            <element signature="e#6777#7351#0" />
-            <element signature="e#7297#7927#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,9 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,54 +589,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week1/1_cnn_basics" />
     <entry file="file://$PROJECT_DIR$/week1/1_cnn_bacis.py" />
-    <entry file="file://$PROJECT_DIR$/week1/t2_cnn_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/t1_cnn_bacis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/w1_lr_basics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,39 +606,190 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week2/w1_lr_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="118" column="60" selection-start-line="118" selection-start-column="60" selection-end-line="118" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/w1_initialization.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/topo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/dnn_utils_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/init_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="258" lean-forward="true" selection-start-line="258" selection-end-line="258" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week2/planar_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+        <state relative-caret-position="461">
+          <caret line="49" column="79" lean-forward="true" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/testCases.py">
+    <entry file="file://$PROJECT_DIR$/week3/reg_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="551">
+          <caret line="344" column="4" selection-start-line="344" selection-start-column="4" selection-end-line="344" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/t2_cnn_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/tf_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1159">
+          <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
           <folding>
-            <element signature="e#26#44#0" expanded="true" />
-            <element signature="e#285#845#0" />
-            <element signature="e#1163#1557#0" />
-            <element signature="e#1608#2299#0" />
-            <element signature="e#2366#3071#0" />
-            <element signature="e#3063#3680#0" />
-            <element signature="e#3777#4742#0" />
-            <element signature="e#4810#5620#0" />
-            <element signature="e#5659#6669#0" />
-            <element signature="e#6777#7351#0" />
-            <element signature="e#7297#7927#0" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/planar_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/w3_dnn_step_by_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="352" column="23" lean-forward="true" selection-start-line="352" selection-start-column="23" selection-end-line="352" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#474#1119#0" />
+            <element signature="e#1154#1796#0" />
+            <element signature="e#1859#2839#0" />
+            <element signature="e#3986#4711#0" />
+            <element signature="e#4749#5541#0" />
+            <element signature="e#5603#6804#0" />
+            <element signature="e#6848#8950#0" />
+            <element signature="e#9014#9887#0" />
+            <element signature="e#10009#12112#0" />
+            <element signature="e#12146#12643#0" />
+            <element signature="e#13107#13965#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/w2_tf_dnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/w1_tf_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#248#645#0" />
+            <element signature="e#678#889#0" />
+            <element signature="e#905#1541#0" />
+            <element signature="e#1558#2427#0" />
+            <element signature="e#2508#3239#0" />
+            <element signature="e#3275#4478#0" />
           </folding>
         </state>
       </provider>

@@ -21,7 +21,7 @@ def runML():
     print('The shape of Y is: ' + str(shape_Y))
     print('I have m = %d training examples!' % (m))
 
-    clf = sklearn.linear_model.LogisticRegressionCV();
+    clf = sklearn.linear_model.LogisticRegression();
     clf.fit(X.T, Y.T);
 
     # plot_decision_boundary(lambda x: clf.predict(x), X, Y.ravel())

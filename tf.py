@@ -1,11 +1,10 @@
-import week1 as w1
-import week2 as w2
+import week4 as w4
 
 print('\n')
 print('\n')
 print('\n')
 
-w2.run()
+w4.run()
 
 print('\n')
 print('\n')
