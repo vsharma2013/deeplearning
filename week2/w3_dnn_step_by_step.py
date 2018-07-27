@@ -346,11 +346,11 @@ def predict(parameters, X):
 
     return predictions
 
-"""
 
 
 
-layers_dims = [2, 1, 1]
+
+layers_dims = [2, 20, 7, 5, 1]
 X, Y = load_planar_dataset()
 parameters = L_layer_model(X, Y, layers_dims, print_cost=True)
 
@@ -390,3 +390,5 @@ train_x = train_x_flatten/255.
 test_x = test_x_flatten/255.
 
 parameters = L_layer_model(train_x, train_y, layers_dims = (12288, 20, 7, 5, 1), num_iterations = 2500, print_cost=True)
+
+"""

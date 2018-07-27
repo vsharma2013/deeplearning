@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16658f64-e096-4247-bdde-88e5f8d7b597" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/testCases.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/testCases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/w2_tf_dnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4/w2_tf_dnn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +14,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="w2_tf_dnn.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="w2_tf_dnn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week4/w2_tf_dnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="521">
+              <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#284#416#0" />
+                <element signature="e#464#853#0" />
+                <element signature="e#896#1715#0" />
+                <element signature="e#1998#3451#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="w1_tf_basic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week4/w1_tf_basic.py">
+      <file leaf-file-name="planar_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week4/planar_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+            <state relative-caret-position="105">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
-                <element signature="e#248#645#0" />
-                <element signature="e#678#889#0" />
-                <element signature="e#905#1541#0" />
-                <element signature="e#1558#2427#0" />
-                <element signature="e#2508#3239#0" />
-                <element signature="e#3275#4478#0" />
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#165#804#0" />
+                <element signature="e#827#1004#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="w2_plannar_cclassification.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="246" column="71" selection-start-line="246" selection-start-column="71" selection-end-line="246" selection-end-column="71" />
+              <folding>
+                <element signature="e#26#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,33 +59,31 @@
       <file leaf-file-name="w3_dnn_step_by_step.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/w3_dnn_step_by_step.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="352" column="23" lean-forward="true" selection-start-line="352" selection-start-column="23" selection-end-line="352" selection-end-column="23" />
+            <state relative-caret-position="481">
+              <caret line="380" column="88" selection-start-line="380" selection-start-column="88" selection-end-line="380" selection-end-column="88" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#474#1119#0" />
                 <element signature="e#1154#1796#0" />
                 <element signature="e#1859#2839#0" />
-                <element signature="e#3986#4711#0" />
                 <element signature="e#4749#5541#0" />
                 <element signature="e#5603#6804#0" />
                 <element signature="e#6848#8950#0" />
                 <element signature="e#9014#9887#0" />
                 <element signature="e#10009#12112#0" />
                 <element signature="e#12146#12643#0" />
-                <element signature="e#13107#13965#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4/__init__.py">
+      <file leaf-file-name="w1_tf_basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week4/w1_tf_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="476">
+              <caret line="305" column="56" selection-start-line="305" selection-start-column="56" selection-end-line="305" selection-end-column="56" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +101,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>seed</find>
       <find>###</find>
+      <find>seed</find>
     </findStrings>
     <replaceStrings>
       <replace># ##</replace>
@@ -116,7 +124,6 @@
         <option value="$PROJECT_DIR$/week2/w2_plannar_cclassification.py" />
         <option value="$PROJECT_DIR$/week2/dnn_utils_v2.py" />
         <option value="$PROJECT_DIR$/week2/testCases.py" />
-        <option value="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" />
         <option value="$PROJECT_DIR$/week2/topo.py" />
         <option value="$PROJECT_DIR$/week3/w1_initialization.ipynb" />
         <option value="$PROJECT_DIR$/week3/init_utils.py" />
@@ -124,8 +131,9 @@
         <option value="$PROJECT_DIR$/week3/reg_utils.py" />
         <option value="$PROJECT_DIR$/tf.py" />
         <option value="$PROJECT_DIR$/week4/tf_utils.py" />
-        <option value="$PROJECT_DIR$/week4/w1_tf_basic.py" />
         <option value="$PROJECT_DIR$/week4/__init__.py" />
+        <option value="$PROJECT_DIR$/week2/w3_dnn_step_by_step.py" />
+        <option value="$PROJECT_DIR$/week4/w1_tf_basic.py" />
         <option value="$PROJECT_DIR$/week4/w2_tf_dnn.py" />
       </list>
     </option>
@@ -179,7 +187,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -198,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.w2_tf_dnn">
+  <component name="RunManager" selected="Python.w3_dnn_step_by_step">
     <configuration name="reg_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,10 +306,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.w3_dnn_step_by_step" />
         <item itemvalue="Python.w2_tf_dnn" />
         <item itemvalue="Python.reg_utils" />
         <item itemvalue="Python.topo" />
-        <item itemvalue="Python.w3_dnn_step_by_step" />
         <item itemvalue="Python.w1_lr_basics" />
       </list>
     </recent_temporary>
@@ -320,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1149" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1141" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
@@ -375,7 +383,7 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -711,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week4/tf_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1159">
@@ -740,56 +741,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week4/planar_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#165#804#0" />
+            <element signature="e#827#1004#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/w2_plannar_cclassification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="246" column="71" selection-start-line="246" selection-start-column="71" selection-end-line="246" selection-end-column="71" />
+          <folding>
+            <element signature="e#26#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/w3_dnn_step_by_step.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="352" column="23" lean-forward="true" selection-start-line="352" selection-start-column="23" selection-end-line="352" selection-end-column="23" />
+        <state relative-caret-position="481">
+          <caret line="380" column="88" selection-start-line="380" selection-start-column="88" selection-end-line="380" selection-end-column="88" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <element signature="e#474#1119#0" />
             <element signature="e#1154#1796#0" />
             <element signature="e#1859#2839#0" />
-            <element signature="e#3986#4711#0" />
             <element signature="e#4749#5541#0" />
             <element signature="e#5603#6804#0" />
             <element signature="e#6848#8950#0" />
             <element signature="e#9014#9887#0" />
             <element signature="e#10009#12112#0" />
             <element signature="e#12146#12643#0" />
-            <element signature="e#13107#13965#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/w2_tf_dnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week4/w1_tf_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+        <state relative-caret-position="476">
+          <caret line="305" column="56" selection-start-line="305" selection-start-column="56" selection-end-line="305" selection-end-column="56" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
-            <element signature="e#248#645#0" />
-            <element signature="e#678#889#0" />
-            <element signature="e#905#1541#0" />
-            <element signature="e#1558#2427#0" />
-            <element signature="e#2508#3239#0" />
-            <element signature="e#3275#4478#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/w2_tf_dnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#284#416#0" />
+            <element signature="e#464#853#0" />
+            <element signature="e#896#1715#0" />
+            <element signature="e#1998#3451#0" />
           </folding>
         </state>
       </provider>
