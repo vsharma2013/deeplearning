@@ -7,13 +7,11 @@ from tensorflow.python.framework import ops
 from week4.planar_utils import plot_decision_boundary, load_planar_dataset, load_extra_datasets
 from week4.tf_utils import load_dataset, random_mini_batches, convert_to_one_hot, predict
 
-
 def create_placeholders(n_x, n_y):
     X = tf.placeholder(tf.float32, [n_x, None], name="X")
     Y = tf.placeholder(tf.float32, [n_y, None], name="Y")
 
     return X, Y
-
 
 def initialize_parameters_deep(layer_dims):
     L = len(layer_dims)
@@ -63,6 +61,7 @@ def compute_cost(ZL, Y):
     cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(logits=logits, labels=labels))
 
     return cost
+
 
 
 def model(X_train, Y_train, X_test, Y_test, layer_dims, learning_rate=0.0001, num_epochs=1500, minibatch_size=32, print_cost=False):
@@ -133,11 +132,10 @@ def model(X_train, Y_train, X_test, Y_test, layer_dims, learning_rate=0.0001, nu
 
         return parameters
 
+def run():
+    print('m workshop')
 
-
-def run_cat():
-
-    layer_dims = [12288, 50, 25, 12, 6]
+    layer_dims = [12288, 25, 12, 6]
 
     X_train_orig, Y_train_orig, X_test_orig, Y_test_orig, classes = load_dataset()
     X_train_flatten = X_train_orig.reshape(X_train_orig.shape[0], -1).T
@@ -158,9 +156,3 @@ def run_cat():
 
     plt.imshow(X_train_orig[2])
     plt.show(block=True)
-
-    model(X_train, Y_train, X_test, Y_test, layer_dims, learning_rate=0.0001, num_epochs=1500, minibatch_size=32, print_cost=True)
-
-
-def run():
-    run_cat()
