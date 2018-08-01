@@ -1,10 +1,10 @@
-import week4 as w4
+import week5_cnn as w
 
 print('\n')
 print('\n')
 print('\n')
 
-w4.run()
+w.run()
 
 print('\n')
 print('\n')
