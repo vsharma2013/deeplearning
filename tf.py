@@ -19,7 +19,7 @@ if time_elapsed < 1:
 elif time_elapsed < 60:
     str_time = str(time_elapsed) + " sec"
 else:
-    str_time = str_time(time_elapsed // 60.0) + " mins"
+    str_time = str(time_elapsed // 60.0) + " mins"
 
 print("\n\nTime taken to complete the operation = ", str_time)
 print('\n')
