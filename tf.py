@@ -1,5 +1,5 @@
 import time
-import week5_cnn as w
+import week6_yolo as w
 
 print('\n')
 print('\n')
