@@ -114,7 +114,7 @@ def run():
 
     happyModel.compile(optimizer="adam", loss="binary_crossentropy", metrics=["accuracy"])
 
-    happyModel.fit(x=X_train, y=Y_train, epochs=20, batch_size=16)
+    happyModel.fit(x=X_train, y=Y_train, epochs=40, batch_size=16)
 
     preds = happyModel.evaluate(x=X_test, y=Y_test)
     
