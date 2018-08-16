@@ -10,4 +10,6 @@ import numpy as np
 import tensorflow as tf
 
 def run():
-    print ("\n\n I am style transfer \n\n")
+    content_image = scipy.misc.imread("datasets/louvre.jpg")
+    plt.imshow(content_image)
+    plt.show(block=True)
