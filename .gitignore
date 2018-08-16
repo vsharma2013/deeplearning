@@ -1,12 +1,14 @@
+.idea
+__pycache__
 week1/__pycache__
 week2/__pycache__
 week3/__pycache__
 week4/__pycache__
 week5_cnn/__pycache__
 week6_yolo/__pycache__
-.idea
+week7_happy_house/__pychache__
 model_data/yolo.h5
-__pycache__
+model_data/imagenet-vgg-verydeep-19.mat
 datasets/yolo_car_out.jpg
 
 
