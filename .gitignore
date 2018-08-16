@@ -1,6 +1,7 @@
 .idea
 __pycache__
 output
+weights
 week1/__pycache__
 week2/__pycache__
 week3/__pycache__
