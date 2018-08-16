@@ -14,6 +14,7 @@ from keras.layers import Input, Lambda, Conv2D
 from keras.models import load_model, Model
 from week6_yolo.yolo_utils import read_classes, read_anchors, generate_colors, preprocess_image, draw_boxes, scale_boxes
 from week6_yolo.keras_yolo import yolo_head, yolo_boxes_to_corners, preprocess_true_boxes, yolo_loss, yolo_body
+from utils import *
 
 
 def yolo_filter_boxes(box_confidence, boxes, box_class_probs, threshold=.6):
@@ -204,9 +205,10 @@ def predict(sess, image_file):
     # Draw bounding boxes on the image file
     draw_boxes(image, out_scores, out_boxes, out_classes, class_names, colors)
     # Save the predicted bounding box on the image
-    image.save(os.path.join("out", image_file), quality=90)
+    out_image_file = os.path.join(os.getcwd(), 'datasets/yolo_car_out.jpg')
+    image.save(os.path.join(out_image_file), quality=90)
     # Display the results in the notebook
-    output_image = scipy.misc.imread(os.path.join("out", image_file))
+    output_image = scipy.misc.imread(os.path.join(out_image_file))
     # imshow(output_image)
     plt.imshow(output_image)
     plt.show(block=True)
@@ -217,7 +219,7 @@ def predict(sess, image_file):
 def run():
     sess = K.get_session()
     
-    predict(sess, "/Users/vishal/Downloads/cars418.jpg")
+    predict(sess, "datasets/car416.jpg")
 
 
 

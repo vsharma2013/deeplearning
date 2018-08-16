@@ -3,6 +3,7 @@ import imghdr
 import os
 import random
 from keras import backend as K
+from utils import getInstalledFontPath
 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
@@ -54,7 +55,8 @@ def preprocess_image(img_path, model_image_size):
 
 
 def draw_boxes(image, out_scores, out_boxes, out_classes, class_names, colors):
-    font = ImageFont.truetype(font='/Library/Fonts/Arial.ttf',
+    fontPath = getInstalledFontPath()
+    font = ImageFont.truetype(font=fontPath,
                               size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
     thickness = (image.size[0] + image.size[1]) // 300
 

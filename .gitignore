@@ -6,5 +6,7 @@ week5_cnn/__pycache__
 week6_yolo/__pycache__
 .idea
 model_data/yolo.h5
+__pycache__
+datasets/yolo_car_out.jpg
 
 
