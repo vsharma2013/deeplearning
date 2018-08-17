@@ -1,5 +1,6 @@
 import time
-import week7_happy_house as w
+import week7_happy_house as w1
+import week8_rnn as w
 
 print('\n')
 print('\n')

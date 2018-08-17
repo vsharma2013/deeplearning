@@ -106,4 +106,4 @@ def run():
     database["felix"] = img_to_encoding("images/felix.jpg", FRmodel)
     database["benoit"] = img_to_encoding("images/benoit.jpg", FRmodel)
     database["arnaud"] = img_to_encoding("images/arnaud.jpg", FRmodel)
-    verify("images/camera_0.jpg", "younes", database, FRmodel)
+    verify("images/camera_4.jpg", "arnaud", database, FRmodel)

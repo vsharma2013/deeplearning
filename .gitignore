@@ -9,6 +9,7 @@ week4/__pycache__
 week5_cnn/__pycache__
 week6_yolo/__pycache__
 week7_happy_house/__pychache__
+week8_rnn/__pycache__
 model_data/yolo.h5
 model_data/imagenet-vgg-verydeep-19.mat
 datasets/yolo_car_out.jpg
