@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16658f64-e096-4247-bdde-88e5f8d7b597" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_happy_house/z2_fr_happy_house.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7_happy_house/z2_fr_happy_house.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week8_rnn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/week8_rnn/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py" beforeDir="false" afterPath="$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,23 +23,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rnn_utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week8_rnn/rnn_utils.py">
+      <file leaf-file-name="z2_language_model_dinos.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week8_rnn/z2_language_model_dinos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="951">
-              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="z1_rnn_step_by_step.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py">
+      <file leaf-file-name="dinos.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week8_rnn/dinos.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="666">
+              <caret line="1535" column="4" selection-start-line="1535" selection-start-column="4" selection-end-line="1535" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dino_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week8_rnn/dino_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
             </state>
           </provider>
         </entry>
@@ -55,11 +62,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week8_rnn/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,7 +145,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/week8_rnn/rnn_utils.py" />
         <option value="$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py" />
+        <option value="$PROJECT_DIR$/week8_rnn/dino_utils.py" />
         <option value="$PROJECT_DIR$/week8_rnn/__init__.py" />
+        <option value="$PROJECT_DIR$/week8_rnn/z2_language_model_dinos.py" />
+        <option value="$PROJECT_DIR$/week8_rnn/dinos.txt" />
       </list>
     </option>
   </component>
@@ -196,25 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.w1_cnn_step_by_step">
-    <configuration name="reg_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning_ai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/reg_utils.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.z2_language_model_dinos">
     <configuration name="w1_cnn_step_by_step" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,24 +246,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="w2_tf_dnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning_ai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/w2_tf_dnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="w3_dnn_step_by_step" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning_ai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,20 +264,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="z1_rnn_step_by_step" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning_ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8_rnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="z2_language_model_dinos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning_ai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8_rnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8_rnn/z2_language_model_dinos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.w3_dnn_step_by_step" />
-      <item itemvalue="Python.reg_utils" />
-      <item itemvalue="Python.w2_tf_dnn" />
       <item itemvalue="Python.w2_plannar_cclassification" />
       <item itemvalue="Python.w1_cnn_step_by_step" />
+      <item itemvalue="Python.z1_rnn_step_by_step" />
+      <item itemvalue="Python.z2_language_model_dinos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.z2_language_model_dinos" />
+        <item itemvalue="Python.z1_rnn_step_by_step" />
         <item itemvalue="Python.w1_cnn_step_by_step" />
         <item itemvalue="Python.w2_plannar_cclassification" />
         <item itemvalue="Python.w3_dnn_step_by_step" />
-        <item itemvalue="Python.w2_tf_dnn" />
-        <item itemvalue="Python.reg_utils" />
       </list>
     </recent_temporary>
   </component>
@@ -321,12 +334,12 @@
     <frame x="-1" y="-11" width="1922" height="1149" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.285576" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.285576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -405,27 +418,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/t2_cnn_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/t1_cnn_bacis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/1_cnn_basics" />
     <entry file="file://$PROJECT_DIR$/week1/1_cnn_bacis.py" />
     <entry file="file://$PROJECT_DIR$/week1/t1_cnn_bacis.py">
@@ -761,23 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8_rnn/rnn_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="951">
-          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -785,10 +760,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week8_rnn/rnn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="93" column="49" lean-forward="true" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8_rnn/z1_rnn_step_by_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="337" lean-forward="true" selection-start-line="337" selection-end-line="337" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8_rnn/dino_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week8_rnn/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8_rnn/z2_language_model_dinos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8_rnn/dinos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="1535" column="4" selection-start-line="1535" selection-start-column="4" selection-end-line="1535" selection-end-column="4" />
         </state>
       </provider>
     </entry>
