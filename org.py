@@ -35,7 +35,7 @@ LATENT_DIM = 25
 # load in the data
 input_texts = []
 target_texts = []
-for line in open('yeek_nlp_adv/data/poetry/robert_frost.txt'):
+for line in open('/home/vishal/deeplearning/yeek_nlp_adv/data/poetry/robert_frost.txt'):
   line = line.rstrip()
   if not line:
     continue
@@ -78,7 +78,7 @@ print('Shape of data tensor:', input_sequences.shape)
 # load in pre-trained word vectors
 print('Loading word vectors...')
 word2vec = {}
-with open(os.path.join('yeek_nlp_adv/data/glove.6B.%sd.txt' % EMBEDDING_DIM)) as f:
+with open(os.path.join('/home/vishal/deeplearning/yeek_nlp_adv/data/glove.6B.%sd.txt' % EMBEDDING_DIM)) as f:
   # is just a space-separated text file in the format:
   # word vec[0] vec[1] vec[2] ...
   for line in f:
